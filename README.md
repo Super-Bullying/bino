@@ -1,2 +1,0 @@
-# bino
-Rúben Campos
